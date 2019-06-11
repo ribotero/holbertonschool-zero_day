@@ -1,0 +1,1 @@
+This project is about using ubuntu and git
